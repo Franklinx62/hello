@@ -8,5 +8,7 @@ int main() {
     printf("enter the second number:");
     scanf("%d",&z);
     printf("addation is :%d\n",x+z);
+    printf("Subtraction: %d\n", x - z);
+    printf("multiaplication: %d\n",x*z);
     return 0;
 }
